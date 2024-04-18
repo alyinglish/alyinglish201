@@ -1,0 +1,75 @@
+h1{
+    color: whitesmoke;
+}
+
+body{
+    background-color:#C4A484
+}
+
+.common{
+    color: whitesmoke;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    
+}
+
+.header{
+    color: whitesmoke;
+    background-color: #836953;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 150px;
+    line-height: 150px;
+    text-align: center; 
+}
+.subheader{
+    color: whitesmoke;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+     
+}
+
+nav a{
+    color: whitesmoke;
+    text-align: center;
+    font-family:serif;
+    text-decoration: none;
+    font-size: x-large;
+    Padding: 20px;
+}
+
+nav{
+    height: 35px;
+    line-height: 35px;
+}
+
+.listtext{
+    color: whitesmoke;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copyright{
+    color: whitesmoke;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: small;
+}
+
+img{
+    position: center;
+    align-items: center;
+    text-align: center;
+}
+
+#Top{
+    color: whitesmoke;
+    text-align: center;
+    font-family:serif;
+    text-decoration: none;
+    font-size: x-large;
+    Padding: 20px
+}
